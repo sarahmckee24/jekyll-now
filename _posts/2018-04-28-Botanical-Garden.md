@@ -1,5 +1,6 @@
 ---
 published: true
+title: Botanical Garden
 layout: post
 ---
 Paleaku Gardens Peace Sanctuary
