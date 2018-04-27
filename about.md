@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Sarah McKee. I graduated from Western Washington University in December of this past year. I enjoy working on a diverse full stack of problems including researching current machine learning techniques. When I am not coding I enjoy spending time with my family and playing basketball.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sarahmckee24@gmail.com](mailto:sarahmckee24@gmail.com)
