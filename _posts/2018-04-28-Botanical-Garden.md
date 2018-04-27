@@ -12,31 +12,3 @@ Honaunau-Napoopoo, Hawaii
     <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_0453.JPG" alt="Tree" style="width:500px;height:400px;" onclick="openImg(this);">
     <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_4774.JPG" alt="Heart" style="width:500px;height:400px;" onclick="openImg(this);">
 </div>
-
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div>
-
-<div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <img id="expandedImg" style="width:100%">
-  <div id="imgtext"></div>
-</div>
-
-<script>
-function myFunction(imgs) {
-    var expandImg = document.getElementById("expandedImg");
-    var imgText = document.getElementById("imgtext");
-    expandImg.src = imgs.src;
-    imgText.innerHTML = imgs.alt;
-    expandImg.parentElement.style.display = "block";
-}
-</script>
