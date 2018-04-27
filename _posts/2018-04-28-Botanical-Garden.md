@@ -4,7 +4,7 @@ title: Botanical Garden
 layout: post
 ---
 Paleaku Gardens Peace Sanctuary
-
+Honaunau-Napoopoo, Hawaii
 
 <div class="row">
   <div class="column">
