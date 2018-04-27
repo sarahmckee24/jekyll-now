@@ -8,16 +8,16 @@ Honaunau-Napoopoo, Hawaii
 
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/FullSizeRender.jpg" alt="labyrinth" style="width:100%" onclick="openImg(this);">
+    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/FullSizeRender.jpg" alt="labyrinth" style="width:25%" onclick="openImg(this);">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_0445.JPG" alt="Flower" style="width:100%" onclick="openImg(this);">
+    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_0445.JPG" alt="Flower" style="width:25%" onclick="openImg(this);">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_0453.JPG" alt="Tree" style="width:100%" onclick="openImg(this);">
+    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_0453.JPG" alt="Tree" style="width:25%" onclick="openImg(this);">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_4774.JPG" alt="Heart" style="width:100%" onclick="openImg(this);">
+    <img src="https://raw.githubusercontent.com/sarahmckee24/sarahmckee24.github.io/master/images/IMG_4774.JPG" alt="Heart" style="width:25%" onclick="openImg(this);">
   </div>
 </div>
 
